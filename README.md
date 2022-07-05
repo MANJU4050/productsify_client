@@ -1,5 +1,5 @@
 #Description
-Productsify is a product management app.This is the frontend of the app which is created using React js.
+Productsify is a product management app.This is the frontend of the app which is built using React js.
 
 #Link
 https://productsify.netlify.app
